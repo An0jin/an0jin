@@ -8,68 +8,36 @@
 - 경복대 빅데이터과 재학(2023~)
 
 ## 관심사
-- **프로그래밍**
-- **닌텐도**
-  - Wii
-  - DS
-  - 3DS
-  - Switch
-- **뮤지컬**
+- **![닌텐도](https://img.shields.io/badge/-닌텐도-E60012?style=flat&logo=nintendo&logoColor=white)**
+  - ![Wii](https://img.shields.io/badge/-Wii-8B8B8B?style=flat&logo=Wii&logoColor=white)
+  - ![DS](https://img.shields.io/badge/-DS-0000ff?style=flat&logo=nintendods&logoColor=white)
+  - ![3DS](https://img.shields.io/badge/-3DS-D12228?style=flat&logo=nintendo3ds&logoColor=white)
+  - ![Switch](https://img.shields.io/badge/-Switch-E60012?style=flat&logo=nintendoswitch&logoColor=white)
 
 ## 기술
 
 ### os
-- **window**
+- **![https://img.shields.io/badge/-window-blue?style=flat&logo=windows&logoColor=white](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white)**
 
 ### 언어 및 프레임워크
-- **C/C++**
-- **C#**
-  - Unity
-- **SQL**
-  - MySQL
-  - Oracle
-  - SQLite
-- **Java**
-  - JSP
-  - Android Studio
-- **Python**
-  - Pandas
-  - NumPy
-  - FastAPI
-  - Sklearn
-- **HTML**
-- **JavaScript**
-- **PHP**
-- **Go (Golang)**
+- **![C#](https://img.shields.io/badge/-C%23-5C2D91?style=flat&logo=c-sharp&logoColor=white)**
+  - ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+- **![Python](https://img.shields.io/badge/-Python-F7931E?style=flat&logo=python&logoColor=white)**
+  - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+  - ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+  - ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+  - ![Sklearn](https://img.shields.io/badge/-Sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+- **![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)**
+  - ![gin](https://img.shields.io/badge/-gin-00ADD8?style=flat&logo=gin&logoColor=white)
 
-### 도구
-- **Photoshop**
-- **Word/PPT/Excel**
-- **Premiere Pro**
-- **visual studio**
-- **vscode**
-- **github**
-- **Ubuntu**
-
-## 🛠 기술 스택
-
-### Microsoft
-![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white) ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-### Adobe
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
-
-### 게임 개발
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
-
-### SQL
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-### 웹 개발
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![JSP](https://img.shields.io/badge/-JSP-007396?style=flat&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-### 모바일 개발
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-
-### 도구
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+### 사용하는 도구
+- **![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat&logo=adobe&logoColor=white)**
+  - ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+- **![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=flat&logo=microsoft&logoColor=white)**
+  - ![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
+  - ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+  - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+- **coding**
+  - ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+  - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- **![github](https://img.shields.io/badge/-github-000000?style=flat&logo=github&logoColor=white)**
