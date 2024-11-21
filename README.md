@@ -13,6 +13,7 @@
   - ![DS](https://img.shields.io/badge/-DS-0000ff?style=flat&logo=nintendods&logoColor=white)
   - ![3DS](https://img.shields.io/badge/-3DS-D12228?style=flat&logo=nintendo3ds&logoColor=white)
   - ![Switch](https://img.shields.io/badge/-Switch-E60012?style=flat&logo=nintendoswitch&logoColor=white)
+- **뮤지컬**
 
 ## 기술
 
