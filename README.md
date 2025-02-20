@@ -43,4 +43,5 @@
   - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 - **![github](https://img.shields.io/badge/-github-000000?style=flat&logo=github&logoColor=white)**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anyoungjin20040106&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anyoungjin20040106&layout=compact&exclude_langs=C,Cython)](https://github-readme-stats.vercel.app/api/top-langs/?username=anyoungjin20040106&layout=compact&theme=rose_pine&hide=html,PowerShell,C,Cython,Jupyter%20Notebook,Fortran,Tcl,Smarty,Meson,CSS,Batchfile,Forth,Assembly,Classic%20ASP,JavaScript)
+
