@@ -39,8 +39,8 @@
   - ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
   - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 - **IDE**
-- ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=Cursor&logoColor=white)
-- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+ - ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=Cursor&logoColor=white)
+ - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   - ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
   
   
