@@ -39,9 +39,11 @@
   - ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
   - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 - **IDE**
+- ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=Cursor&logoColor=white)
+- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   - ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-  - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-  - ![Cursor](https://img.shields.io/badge/-Cursor-007ACC?style=flat&logo=Cursor&logoColor=white)
+  
+  
 - **![github](https://img.shields.io/badge/-github-000000?style=flat&logo=github&logoColor=white)**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anyoungjin20040106&layout=compact&theme=rose_pine&hide=html,PowerShell,C,Cython,Jupyter%20Notebook,Fortran,Tcl,Smarty,Meson,CSS,Batchfile,Forth,Assembly,Classic%20ASP,JavaScript)]
