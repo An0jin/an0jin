@@ -17,16 +17,16 @@
   - ![Switch](https://img.shields.io/badge/-Switch-E60012?style=flat&logo=nintendoswitch&logoColor=white)
 - **뮤지컬**
   - 프랑켄슈타인
- ![](img\프랑켄슈타인.jpg)
+ ![](./img/프랑켄슈타인.jpg)
   - 이블데드
- ![](img\이블데드.jpg)
+ ![](./img/이블데드.jpg)
   - 킹키부츠
- ![](img\킹키부츠.jpg)
+ ![](./img/킹키부츠.jpg)
   - 광화문 연가
- ![](img\광화문연가.jpg)
+ ![](./img/광화문연가.jpg)
   - 웃는남자
- ![](img\웃는남자.jpg)
- ![](img\웃는남자1.jpg)
+ ![](./img/웃는남자.jpg)
+ ![](./img/웃는남자1.jpg)
 
 
 
