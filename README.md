@@ -1,10 +1,7 @@
 # 안영진 (anyoungjin)
 
 ## 자기소개
-안녕하세요! 저는 중학교 3학년 때부터 다양한 프로그래밍 언어를 공부해온 안영진입니다.
-
-## 학력
-- 경복대 빅데이터과 재학(2023~)
+안녕하세요! 저는 다양한 프로그래밍 언어를 공부해온 안영진입니다.
 
 ## 경력
 - 前)계양구 청소년 수련관 AI활용 강사
@@ -56,9 +53,10 @@
   - ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
   - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 - **IDE**
-   - ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=Cursor&logoColor=white)
+   - ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
+   - ![WindSurf](https://img.shields.io/badge/-WindSurf-ffffff?style=flat&logo=windsurf&logoColor=black)
    - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-    - ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+   - ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 - **![github](https://img.shields.io/badge/-github-000000?style=flat&logo=github&logoColor=white)**
 
 
