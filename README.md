@@ -40,7 +40,8 @@
 
 ## 관심사
 
-- - ![Wii](https://img.shields.io/badge/-Wii-8B8B8B?style=flat&logo=Wii&logoColor=white)
+- **닌텐도**
+  - ![Wii](https://img.shields.io/badge/-Wii-8B8B8B?style=flat&logo=Wii&logoColor=white)
   - ![DS](https://img.shields.io/badge/-DS-0000ff?style=flat&logo=nintendods&logoColor=white)
   - ![3DS](https://img.shields.io/badge/-3DS-D12228?style=flat&logo=nintendo3ds&logoColor=white)
   - ![Switch](https://img.shields.io/badge/-Switch-E60012?style=flat&logo=nintendoswitch&logoColor=white)
