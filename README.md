@@ -11,17 +11,16 @@
 
 ## 기술
 ### os
-- **![https://img.shields.io/badge/-window-blue?style=flat&logo=windows&logoColor=white](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white)**
+- **![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white)**
 
 ### 언어 및 프레임워크
 - **![C#](https://img.shields.io/badge/-C%23-5C2D91?style=flat&logo=c-sharp&logoColor=white)**
   - ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
-  - ![Photon Chat](https://img.shields.io/badge/-Photon%20Chat-004480?style=flat&logo=photon&logoColor=white)
+    - ![ARFoundation](https://img.shields.io/badge/-ARFoundation-000000?style=flat&logo=Unity&logoColor=white)
+    - ![Photon Chat](https://img.shields.io/badge/-Photon%20Chat-004480?style=flat&logo=photon&logoColor=white)
 - **![Python](https://img.shields.io/badge/-Python-F7931E?style=flat&logo=python&logoColor=white)**
-  - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-  - ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
   - ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-  - ![Sklearn](https://img.shields.io/badge/-Sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+  - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
   - ![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=flat&logo=Ultralytics&logoColor=white)
 
 ### 사용하는 도구
@@ -32,11 +31,13 @@
   - ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
   - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 - **IDE**
-   - ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
    - ![WindSurf](https://img.shields.io/badge/-WindSurf-ffffff?style=flat&logo=windsurf&logoColor=black)
+   - ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
    - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
    - ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-- **![github](https://img.shields.io/badge/-github-000000?style=flat&logo=github&logoColor=white)**
+- **기타**
+  - ![github](https://img.shields.io/badge/-github-000000?style=flat&logo=github&logoColor=white)
+  - ![docker](https://img.shields.io/badge/-docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 관심사
 
@@ -57,7 +58,7 @@
   - 웃는남자
     ![](./img/웃는남자.jpg)
     ![](./img/웃는남자1.jpg)
-  - 팬텀(카이 팬텀으로 볼 예정)
+  - 팬텀
     ![](./img/팬텀.jpg)
 
 
@@ -68,4 +69,4 @@
    🗂️ **주제:** 실시간 관광 정보 제공 및 AR 경험 시스템
    🛠️ **기술 스택:** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white),![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anyoungjin20040106&layout=compact&theme=rose_pine&hide=html,PowerShell,C,Cython,Jupyter%20Notebook,Fortran,Tcl,Smarty,Meson,CSS,Batchfile,Forth,Assembly,Classic%20ASP,JavaScript)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=an0jin&layout=compact&theme=rose_pine&hide=html,PowerShell,C,Cython,Jupyter%20Notebook,Fortran,Tcl,Smarty,Meson,CSS,Batchfile,Forth,Assembly,Classic%20ASP,JavaScript)]
