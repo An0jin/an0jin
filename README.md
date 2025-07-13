@@ -38,9 +38,8 @@
   - ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
   - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 - **클라우드**
-  - ![docker](https://img.shields.io/badge/-docker-2496ED?style=flat&logo=docker&logoColor=white)
   - ![oracle cloud](https://img.shields.io/badge/-oracle%20cloud-E55844?style=flat&logo=oracle&logoColor=white)
-
+  - ![docker](https://img.shields.io/badge/-docker-2496ED?style=flat&logo=docker&logoColor=white)
 - **기타**
   - ![github](https://img.shields.io/badge/-github-000000?style=flat&logo=github&logoColor=white)
 
