@@ -12,7 +12,7 @@
 ## 기술
 ### os
 - **![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white)**
-- **![kubuntu](https://img.shields.io/badge/-kubuntu-0079C1?style=flat&logo=kubuntu&logoColor=white)**
+- **![ubuntu](https://img.shields.io/badge/-ubuntu-E55844?style=flat&logo=ubuntu&logoColor=white)**
 
 ### 언어 및 프레임워크
 - **![C#](https://img.shields.io/badge/-C%23-5C2D91?style=flat&logo=c-sharp&logoColor=white)**
