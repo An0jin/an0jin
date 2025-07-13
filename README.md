@@ -12,6 +12,7 @@
 ## 기술
 ### os
 - **![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white)**
+- **![kubuntu](https://img.shields.io/badge/-kubuntu-0079C1?style=flat&logo=kubuntu&logoColor=white)**
 
 ### 언어 및 프레임워크
 - **![C#](https://img.shields.io/badge/-C%23-5C2D91?style=flat&logo=c-sharp&logoColor=white)**
@@ -24,20 +25,24 @@
   - ![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=flat&logo=Ultralytics&logoColor=white)
 
 ### 사용하는 도구
+- **IDE**
+   - ![WindSurf](https://img.shields.io/badge/-WindSurf-ffffff?style=flat&logo=windsurf&logoColor=black)
+   - ![vim](https://img.shields.io/badge/-vim-019733?style=flat&logo=vim&logoColor=white)
+   - ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
+   - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+   - ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 - **![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat&logo=adobe&logoColor=white)**
   - ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 - **![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=flat&logo=microsoft&logoColor=white)**
   - ![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
   - ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
   - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-- **IDE**
-   - ![WindSurf](https://img.shields.io/badge/-WindSurf-ffffff?style=flat&logo=windsurf&logoColor=black)
-   - ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
-   - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-   - ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+- **클라우드**
+  - ![docker](https://img.shields.io/badge/-docker-2496ED?style=flat&logo=docker&logoColor=white)
+  - ![oracle cloud](https://img.shields.io/badge/-oracle%20cloud-E55844?style=flat&logo=oracle&logoColor=white)
+
 - **기타**
   - ![github](https://img.shields.io/badge/-github-000000?style=flat&logo=github&logoColor=white)
-  - ![docker](https://img.shields.io/badge/-docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 관심사
 
