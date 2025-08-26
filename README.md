@@ -2,7 +2,7 @@
 
 ## 자기소개
 
-안녕하세요! 저는 다양한 프로그래밍 언어를 공부해온 안영진입니다.
+안녕하세요! 저는 AI AR융합에 대해 공부하고 있는 대학생입니다
 
 ## 경력
 
@@ -12,7 +12,7 @@
 ## 기술
 ### os
 - **![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white)**
-- **![ubuntu](https://img.shields.io/badge/-ubuntu-E55844?style=flat&logo=ubuntu&logoColor=white)**
+- **![Ubuntu Desktop](https://img.shields.io/badge/-ubuntu-E55844?style=flat&logo=ubuntu&logoColor=white)**
 
 ### 언어 및 프레임워크
 - **![C#](https://img.shields.io/badge/-C%23-5C2D91?style=flat&logo=c-sharp&logoColor=white)**
@@ -42,29 +42,6 @@
   - ![docker](https://img.shields.io/badge/-docker-2496ED?style=flat&logo=docker&logoColor=white)
 - **기타**
   - ![github](https://img.shields.io/badge/-github-000000?style=flat&logo=github&logoColor=white)
-
-## 관심사
-
-- **닌텐도**
-  - ![Wii](https://img.shields.io/badge/-Wii-8B8B8B?style=flat&logo=Wii&logoColor=white)
-  - ![DS](https://img.shields.io/badge/-DS-0000ff?style=flat&logo=nintendods&logoColor=white)
-  - ![3DS](https://img.shields.io/badge/-3DS-D12228?style=flat&logo=nintendo3ds&logoColor=white)
-  - ![Switch](https://img.shields.io/badge/-Switch-E60012?style=flat&logo=nintendoswitch&logoColor=white)
-- **뮤지컬**
-  - 프랑켄슈타인
-    ![](./img/프랑켄슈타인.jpg)
-  - 이블데드
-    ![](./img/이블데드.jpg)
-  - 킹키부츠
-    ![](./img/킹키부츠.jpg)
-  - 광화문 연가
-    ![](./img/광화문연가.jpg)
-  - 웃는남자
-    ![](./img/웃는남자.jpg)
-    ![](./img/웃는남자1.jpg)
-  - 팬텀
-    ![](./img/팬텀.jpg)
-
 
 ## 논문
 
