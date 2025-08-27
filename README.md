@@ -10,7 +10,6 @@
 
 <h3 align="left">사용언어와 도구:</h3>
 <p align="left">
-<a href="https://www.microsoft.com/ko-kr/software-download/windows11" target="_blank" rel="noreferrer"> <img src="https://wiki1.kr/images/thumb/3/31/%EC%9C%88%EB%8F%84%EC%9A%B0_%28%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%29_%EB%A1%9C%EA%B3%A0.png/200px-%EC%9C%88%EB%8F%84%EC%9A%B0_%28%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%29_%EB%A1%9C%EA%B3%A0.png" alt="windows" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://i.namu.wiki/i/qLVS95DlpRP2U8m5BoNcH3YERM4-DD4Mn49DobAZ5ZAk4PkCi4aD-LoAUfmrIUCOEHrv3bqPW96d4WwFFzdJWA.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
 <a href="https://fastapi.tiangolo.com/ko/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4" alt="Fast API" width="40" height="40"/> </a>
