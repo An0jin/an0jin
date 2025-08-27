@@ -1,53 +1,32 @@
-# 안영진 (anyoungjin)
+<h1 align="center">안영진</h1>
 
-## 자기소개
+<h3 align="left">나의 대한 소개</h3>
 
-안녕하세요! 저는 AI AR융합에 대해 공부하고 있는 대학생입니다
+- 🌱 저는 현제 **리눅스, 이미지 데이터, 이미지 모델, 이미지 데이터 증강, AR, AI모델 서빙, 클라우드, AI와 데이터를 활용한 과제 제작**를 공부하고 있습니다
 
-## 경력
+- 👯 **이미지 데이터, AR, 백엔드** 분야에서 일하고 싶습니다.
 
-- 前)계양구 청소년 수련관 AI활용 강사
+- 🤝 전에 **청소년 수련관에서 AI와 데이터를 활용하여 과제를 제작하는 강의**를 해본 경험이 있습니다
 
-
-## 기술
-### os
-- **![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white)**
-- **![Ubuntu Desktop](https://img.shields.io/badge/-ubuntu-E55844?style=flat&logo=ubuntu&logoColor=white)**
-
-### 언어 및 프레임워크
-- **![C#](https://img.shields.io/badge/-C%23-5C2D91?style=flat&logo=c-sharp&logoColor=white)**
-  - ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
-    - ![ARFoundation](https://img.shields.io/badge/-ARFoundation-000000?style=flat&logo=Unity&logoColor=white)
-    - ![Photon Chat](https://img.shields.io/badge/-Photon%20Chat-004480?style=flat&logo=photon&logoColor=white)
-- **![Python](https://img.shields.io/badge/-Python-F7931E?style=flat&logo=python&logoColor=white)**
-  - ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-  - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-  - ![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=flat&logo=Ultralytics&logoColor=white)
-
-### 사용하는 도구
-- **IDE**
-   - ![WindSurf](https://img.shields.io/badge/-WindSurf-ffffff?style=flat&logo=windsurf&logoColor=black)
-   - ![vim](https://img.shields.io/badge/-vim-019733?style=flat&logo=vim&logoColor=white)
-   - ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
-   - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-   - ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-- **![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat&logo=adobe&logoColor=white)**
-  - ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-- **![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=flat&logo=microsoft&logoColor=white)**
-  - ![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
-  - ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
-  - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-- **클라우드**
-  - ![oracle cloud](https://img.shields.io/badge/-oracle%20cloud-E55844?style=flat&logo=oracle&logoColor=white)
-  - ![docker](https://img.shields.io/badge/-docker-2496ED?style=flat&logo=docker&logoColor=white)
-- **기타**
-  - ![github](https://img.shields.io/badge/-github-000000?style=flat&logo=github&logoColor=white)
-
-## 논문
-
-1. **A Real-Time Tourist Information and AR Experience System Using FastAPI and Unity**
-   🔗 [논문 링크](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003176565)
-   🗂️ **주제:** 실시간 관광 정보 제공 및 AR 경험 시스템
-   🛠️ **기술 스택:** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white),![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=an0jin&layout=compact&theme=rose_pine&hide=html,PowerShell,C,Cython,Jupyter%20Notebook,Fortran,Tcl,Smarty,Meson,CSS,Batchfile,Forth,Assembly,Classic%20ASP,JavaScript)]
+<h3 align="left">사용언어와 도구:</h3>
+<p align="left">
+<a href="https://www.microsoft.com/ko-kr/software-download/windows11" target="_blank" rel="noreferrer"> <img src="https://wiki1.kr/images/thumb/3/31/%EC%9C%88%EB%8F%84%EC%9A%B0_%28%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%29_%EB%A1%9C%EA%B3%A0.png/200px-%EC%9C%88%EB%8F%84%EC%9A%B0_%28%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%29_%EB%A1%9C%EA%B3%A0.png" alt="windows" width="40" height="40"/> </a>
+<a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://i.namu.wiki/i/qLVS95DlpRP2U8m5BoNcH3YERM4-DD4Mn49DobAZ5ZAk4PkCi4aD-LoAUfmrIUCOEHrv3bqPW96d4WwFFzdJWA.svg" alt="ubuntu" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com/ko/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4" alt="Fast API" width="40" height="40"/> </a>
+<a href="https://docs.ultralytics.com/ko/models/yolo12/" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/680a070c3b99253410dd3e8d_UltralyticsYOLO_mark_blue.svg" alt="YOLO" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://netdata.cloud/img/pandas.png" alt="pandas" width="40" height="40"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://blog.kakaocdn.net/dna/4UIIH/btqIH4tfonl/AAAAAAAAAAAAAAAAAAAAADPUbrRLEKUmS02zWXk6idUoaaeee6dD762v7IeabO_t/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1756652399&allow_ip=&allow_referer=&signature=KJ6ZMYOF2cJSXgt8o%2FyMYhFSyXY%3D" alt="seaborn" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/ko-kr/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://velog.velcdn.com/images/scarleter99/post/e99095f6-2dd8-4d67-be93-8eeda8775ace/image.jpg" alt="C#" width="40" height="40"/> </a>
+<a href="https://unity.com/kr/download" target="_blank" rel="noreferrer"> <img src="https://cdn.sanity.io/images/fuvbjjlp/production/b749e2a6d2c21623ea89d0443410ba24f1aa420a-512x512.png" alt="unity" width="40" height="40"/> </a>
+<a href="https://docs.unity3d.com/kr/2020.3/Manual/com.unity.xr.arfoundation.html" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6357/6357965.png" alt="ARdoundation" width="40" height="40"/> </a>
+<a href="https://www.photonengine.com/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/e/ed/Photon_Engine_Icon.svg/revision/latest/scale-to-width-down/250?cb=20250218205934" alt="photon engine" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://blog.kakaocdn.net/dna/cGqlEN/btqKXMjjjTj/AAAAAAAAAAAAAAAAAAAAAEl_NUEM0SMy4pYtoE-RZsw2jrAekGN6vzZljdVWBczq/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1756652399&allow_ip=&allow_referer=&signature=PfU9PDnlRoub2sNqqTKsWXW8Xlw%3D" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.oracle.com/kr/cloud/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/bv1qRaUSfS91kwMIAikkhG0uRdYeWWEmvuFLFyvcUfX_0zPg0NIMDyAIRVm2A5UICQ" alt="oracle cloud" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" alt="Docker" width="40" height="40"/> </a>
+<a href="https://www.java.com/ko/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-icon-svg-png-download-1174953.png?f=webp" alt="Java" width="40" height="40"/> </a>
+<a href="https://installc.org/" target="_blank" rel="noreferrer"> <img src="https://i.namu.wiki/i/KcqDuQYTxNpUcLIMZTg28QXse0XiWx1G7K68kYYCo1GuhoHmhB_V8Qe9odGGt0BH9-0nQZTN53WXTNpDmwVfWQ.svg" alt="C" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/ko-kr/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/ko-kr/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40"/> </a>
+</p>
