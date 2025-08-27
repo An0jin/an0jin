@@ -1,5 +1,7 @@
 <h1 align="center">안영진</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+My++GitHub&color=FFFFFF)](https://git.io/typing-svg)
+
 <h3 align="left">나의 대한 소개</h3>
 
 - 🌱 저는 현제 **리눅스, 이미지 데이터, 이미지 모델, 이미지 데이터 증강, AR, AI모델 서빙, 클라우드, AI와 데이터를 활용한 과제 제작**를 공부하고 있습니다
