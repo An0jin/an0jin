@@ -10,8 +10,6 @@
 
 - 🤝 전에 **청소년 수련관에서 AI와 데이터를 활용하여 과제를 제작하는 강의**를 해본 경험이 있습니다
 
-- 🤝 
-
 <h3 align="left">사용언어와 도구:</h3>
 <p align="left">
 <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://i.namu.wiki/i/qLVS95DlpRP2U8m5BoNcH3YERM4-DD4Mn49DobAZ5ZAk4PkCi4aD-LoAUfmrIUCOEHrv3bqPW96d4WwFFzdJWA.svg" alt="ubuntu" width="40" height="40"/> </a>
