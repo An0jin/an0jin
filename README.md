@@ -24,7 +24,8 @@
 <a href="https://www.oracle.com/kr/cloud/free/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/bv1qRaUSfS91kwMIAikkhG0uRdYeWWEmvuFLFyvcUfX_0zPg0NIMDyAIRVm2A5UICQ" alt="oracle cloud" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" alt="Docker" width="40" height="40"/> </a>
 <a href="https://www.java.com/ko/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-icon-svg-png-download-1174953.png?f=webp" alt="Java" width="40" height="40"/> </a>
-<a href="https://learn.microsoft.com/ko-kr/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/ko-kr/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C-2.png" alt="Photoshop" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/kr/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40"/> </a>
 </p>
 <h3 align="left">포트폴리오:</h3>
 <a href="https://play.google.com/store/apps/dev?id=8088879179857239527" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="구글 플레이 스토어" width="40" height="40"/> </a>
