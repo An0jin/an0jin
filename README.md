@@ -19,7 +19,6 @@
 <a href="https://fastapi.tiangolo.com/ko/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4" alt="Fast API" width="40" height="40"/> </a>
 <a href="https://docs.ultralytics.com/ko/models/yolo12/" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/680a070c3b99253410dd3e8d_UltralyticsYOLO_mark_blue.svg" alt="YOLO" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://netdata.cloud/img/pandas.png" alt="pandas" width="40" height="40"/> </a>
-
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/kr/cloud/free/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/bv1qRaUSfS91kwMIAikkhG0uRdYeWWEmvuFLFyvcUfX_0zPg0NIMDyAIRVm2A5UICQ" alt="oracle cloud" width="40" height="40"/> </a>
