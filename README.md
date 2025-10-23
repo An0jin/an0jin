@@ -10,7 +10,7 @@
 
 <h3 align="left">사용언어와 도구:</h3>
 <p align="left">
-<a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://i.namu.wiki/i/qLVS95DlpRP2U8m5BoNcH3YERM4-DD4Mn49DobAZ5ZAk4PkCi4aD-LoAUfmrIUCOEHrv3bqPW96d4WwFFzdJWA.svg" alt="ubuntu" width="40" height="40"/> </a>
+<a href="https://www.oracle.com/kr/linux/" target="_blank" rel="noreferrer"> <img src="https://hoing.io/storage/2020/10/oracle-linux-unbreakable-enterprise-e1601754629899.jpg" alt="oracle linux" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/ko-kr/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://velog.velcdn.com/images/scarleter99/post/e99095f6-2dd8-4d67-be93-8eeda8775ace/image.jpg" alt="C#" width="40" height="40"/> </a>
 <a href="https://unity.com/kr/download" target="_blank" rel="noreferrer"> <img src="https://cdn.sanity.io/images/fuvbjjlp/production/b749e2a6d2c21623ea89d0443410ba24f1aa420a-512x512.png" alt="unity" width="40" height="40"/> </a>
 <a href="https://docs.unity3d.com/kr/2020.3/Manual/com.unity.xr.arfoundation.html" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6357/6357965.png" alt="ARdoundation" width="40" height="40"/> </a>
