@@ -10,7 +10,7 @@
 
 <h3 align="left">사용언어와 도구:</h3>
 <p align="left">
-<a href="https://www.oracle.com/kr/linux/" target="_blank" rel="noreferrer"> <img src="https://blog.kakaocdn.net/dna/brnFDz/btsKGj0yjgJ/AAAAAAAAAAAAAAAAAAAAAEWNiAhKOsdleBMOJwg6fOiBvQju3adxxEbUDtyHu2We/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1761922799&allow_ip=&allow_referer=&signature=630Vz%2BnIDduXxpYg%2BlAdq%2FTXuec%3D" alt="oracle linux" width="40" height="40"/> </a>
+<a href="https://ubuntu.com/download/desktop" target="_blank" rel="noreferrer"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAb1BMVEXpVCDpUx3oTRDoSADpURroRQDoQwDqWyvxnIf1uKr2xLjrZj3629T98+/5187qYDXsck/////3yb7//fz++ffnQQD0sKDug2fwmILvkHfpTxX1va/yp5X75eD639jsbEfnNgD40cjteVjviW7sdVLqBukvAAABAUlEQVR4AbWQ3XKCMBQGk5wkgqKy8tsooLTv/4ydDAwTaW/dq8zsxbcn6vNoI6Ks82L/KOsPWX40p+J8ue6tlAVw8xVQy7trWoC664l8hdT5O1QP20i2SJM4k8EQRCutACpROh3sL0tjKMdqPE1nv53g+rx76jXaNf4KXVilG4CjSwpqjrIOLoWT3aTcGPz6zPeF0lI3yzN0RJRO5Vbk7kCfnOZeDFuCXDtx6VfCXbZbpva2TmpnnM+gTPJqqoOJThXQPofRq40wQ136oN1I3J8nm65kwKuzlkjRWJXivgHGhshL1DvG5hXEq2AOaocWX2Y/zWO8zEb9gzVWGSdBfZZf+aMRaoktIDoAAAAASUVORK5CYII=" alt="Ubuntu" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/ko-kr/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://velog.velcdn.com/images/scarleter99/post/e99095f6-2dd8-4d67-be93-8eeda8775ace/image.jpg" alt="C#" width="40" height="40"/> </a>
 <a href="https://unity.com/kr/download" target="_blank" rel="noreferrer"> <img src="https://cdn.sanity.io/images/fuvbjjlp/production/b749e2a6d2c21623ea89d0443410ba24f1aa420a-512x512.png" alt="unity" width="40" height="40"/> </a>
 <a href="https://docs.unity3d.com/kr/2020.3/Manual/com.unity.xr.arfoundation.html" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6357/6357965.png" alt="ARdoundation" width="40" height="40"/> </a>
@@ -25,7 +25,6 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/kr/cloud/free/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/bv1qRaUSfS91kwMIAikkhG0uRdYeWWEmvuFLFyvcUfX_0zPg0NIMDyAIRVm2A5UICQ" alt="oracle cloud" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" alt="Docker" width="40" height="40"/> </a>
-<a href="https://www.java.com/ko/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-icon-svg-png-download-1174953.png?f=webp" alt="Java" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/ko-kr/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C-2.png" alt="Photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/kr/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40"/> </a>
 </p>
