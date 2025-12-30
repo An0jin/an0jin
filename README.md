@@ -26,7 +26,7 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/kr/cloud/free/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/bv1qRaUSfS91kwMIAikkhG0uRdYeWWEmvuFLFyvcUfX_0zPg0NIMDyAIRVm2A5UICQ" alt="oracle cloud" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" alt="Docker" width="40" height="40"/> </a>
-<a href="https://nginxproxymanager.com" target="_blank" rel="noreferrer"> <img src="https://svrforum.com//modules/automention/lib/img_read.php?url=WGx3cys0VVh1RWk4RG4vQlFtRnRHTnM3SFJwTW5kVEVvRXRraTgvMjBrRUhRTlBjbWxLVHY3bHZCZ2RvcUduUg" alt="Nginx Proxy Manager" width="40" height="40"/> </a>
+<a href="https://nginxproxymanager.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nginx-proxy-manager.webp" alt="Nginx Proxy Manager" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/kr/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40"/> </a>
 </p>
 <h3 align="left">포트폴리오:</h3>
