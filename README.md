@@ -6,35 +6,33 @@
 
 - 🌱 저는 현재 **리눅스, 이미지 데이터, 이미지 딥러닝, 이미지 데이터 증강, AR, AI모델 서빙, 클라우드, AI와 데이터를 활용한 과제 제작**를 공부하고 있습니다
 - 👯 현재 1인 창업자로 사업자를 등록하여, **빅데이터, AI와 메타버스, 디지털트원 기술을 접목한 뷰티 플랫폼 'Toneiverse'를 서비스 중**입니다
-
-<h3 align="left">사용언어와 도구:</h3>
-<p align="left">
-<a href="https://www.microsoft.com/ko-kr/software-download/windows11" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2108/PNG/512/windows_icon_130784.png" alt="Windows" width="40" height="40"/> </a>
-<a href="https://xubuntu.org/" target="_blank" rel="noreferrer"> <img src="https://i.namu.wiki/i/rqoDuqYqkZTW_KdjcAkfM1eH_RxhWySHUvaaZrbTM9fGH9DgHRrsLx53S6AoRZvIEmE-VUfK0ijA9l1cktt_qg.svg" alt="xubuntu" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/kr/linux/" target="_blank" rel="noreferrer"> <img src="https://blog.kakaocdn.net/dna/brnFDz/btsKGj0yjgJ/AAAAAAAAAAAAAAAAAAAAAEWNiAhKOsdleBMOJwg6fOiBvQju3adxxEbUDtyHu2We/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1772290799&allow_ip=&allow_referer=&signature=TUiPOezK3MRRHxXhpX%2B%2BleXae10%3D" alt="Oracle Linux" width="40" height="40"/> </a>
-<a href="https://antigravity.google/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/4/4a/Google_Antigravity_icon.svg/revision/latest/scale-to-width-down/1200?cb=20251119202403" alt="antigravity" width="40" height="40"/> </a>
-<a href="https://www.beekeeperstudio.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/53234021?v=4" alt="beekeeperstudio" width="40" height="40"/> </a>
-<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/ko-kr/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://velog.velcdn.com/images/scarleter99/post/e99095f6-2dd8-4d67-be93-8eeda8775ace/image.jpg" alt="C#" width="40" height="40"/> </a>
-<a href="https://unity.com/kr/download" target="_blank" rel="noreferrer"> <img src="https://cdn.sanity.io/images/fuvbjjlp/production/b749e2a6d2c21623ea89d0443410ba24f1aa420a-512x512.png" alt="unity" width="40" height="40"/> </a>
-<a href="https://docs.unity3d.com/kr/2020.3/Manual/com.unity.xr.arfoundation.html" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6357/6357965.png" alt="ARdoundation" width="40" height="40"/> </a>
-<a href="https://www.photonengine.com/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/e/ed/Photon_Engine_Icon.svg/revision/latest/scale-to-width-down/250?cb=20250218205934" alt="photon engine" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://blog.kakaocdn.net/dna/cn9zq6/btsaUkhGHdY/AAAAAAAAAAAAAAAAAAAAAHjjzE3p5XSwHaIJVgOl7eXyKNaOeHrd6f3w4BUehGlj/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=oDKBK5g9F%2BV16Ek4DDLxGI7jHbQ%3D" alt="python" width="40" height="40"/> </a>
-<a href="https://fastapi.tiangolo.com/ko/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4" alt="Fast API" width="40" height="40"/> </a>
-<a href="https://docs.ultralytics.com/ko/models/yolo12/" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/680a070c3b99253410dd3e8d_UltralyticsYOLO_mark_blue.svg" alt="YOLO" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.stackshare.io/service/1293/opencv-logo-64x64.png" alt="opencv" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://netdata.cloud/img/pandas.png" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/kr/cloud/free/" target="_blank" rel="noreferrer"> <img src="https://dt-cdn.net/hub/logos/oracle-cloud.png" alt="oracle cloud" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" alt="Docker" width="40" height="40"/> </a>
-<a href="https://nginxproxymanager.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nginx-proxy-manager.webp" alt="Nginx Proxy Manager" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/kr/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40"/> </a>
+### 사용언어와 도구
+<p align=\"left\">
+<a href=\"https://www.microsoft.com/ko-kr/software-download/windows11\"> <img src=\"https://images.icon-icons.com/2108/PNG/512/windows_icon_130784.png\" alt=\"Windows\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://xubuntu.org/\"> <img src=\"https://i.namu.wiki/i/rqoDuqYqkZTW_KdjcAkfM1eH_RxhWySHUvaaZrbTM9fGH9DgHRrsLx53S6AoRZvIEmE-VUfK0ijA9l1cktt_qg.svg\" alt=\"xubuntu\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://www.oracle.com/kr/linux/\"> <img src=\"https://blog.kakaocdn.net/dna/brnFDz/btsKGj0yjgJ/AAAAAAAAAAAAAAAAAAAAAEWNiAhKOsdleBMOJwg6fOiBvQju3adxxEbUDtyHu2We/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1772290799&allow_ip=&allow_referer=&signature=TUiPOezK3MRRHxXhpX%2B%2BleXae10%3D\" alt=\"Oracle Linux\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://antigravity.google/\"> <img src=\"https://static.wikia.nocookie.net/logopedia/images/4/4a/Google_Antigravity_icon.svg/revision/latest/scale-to-width-down/1200?cb=20251119202403\" alt=\"antigravity\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://www.beekeeperstudio.io/\"> <img src=\"https://avatars.githubusercontent.com/u/53234021?v=4\" alt=\"beekeeperstudio\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://www.vim.org/\"> <img src=\"https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg\" alt=\"vim\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://dotnet.microsoft.com/ko-kr/languages/csharp\"> <img src=\"https://velog.velcdn.com/images/scarleter99/post/e99095f6-2dd8-4d67-be93-8eeda8775ace/image.jpg\" alt=\"C#\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://unity.com/kr/download\"> <img src=\"https://cdn.sanity.io/images/fuvbjjlp/production/b749e2a6d2c21623ea89d0443410ba24f1aa420a-512x512.png\" alt=\"unity\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://docs.unity3d.com/kr/2020.3/Manual/com.unity.xr.arfoundation.html\"> <img src=\"https://cdn-icons-png.flaticon.com/512/6357/6357965.png\" alt=\"ARfoundation\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://www.photonengine.com/\"> <img src=\"https://static.wikia.nocookie.net/logopedia/images/e/ed/Photon_Engine_Icon.svg/revision/latest/scale-to-width-down/250?cb=20250218205934\" alt=\"photon engine\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://www.python.org/\"> <img src=\"https://blog.kakaocdn.net/dna/cn9zq6/btsaUkhGHdY/AAAAAAAAAAAAAAAAAAAAAHjjzE3p5XSwHaIJVgOl7eXyKNaOeHrd6f3w4BUehGlj/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=oDKBK5g9F%2BV16Ek4DDLxGI7jHbQ%3D\" alt=\"python\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://fastapi.tiangolo.com/ko/\"> <img src=\"https://avatars.githubusercontent.com/u/156354296?s=280&v=4\" alt=\"Fast API\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://docs.ultralytics.com/ko/models/yolo12/\"> <img src=\"https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/680a070c3b99253410dd3e8d_UltralyticsYOLO_mark_blue.svg\" alt=\"YOLO\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://opencv.org/\"> <img src=\"https://img.stackshare.io/service/1293/opencv-logo-64x64.png\" alt=\"opencv\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://pandas.pydata.org/\"> <img src=\"https://netdata.cloud/img/pandas.png\" alt=\"pandas\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://www.mysql.com/\"> <img src=\"https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png\" alt=\"mysql\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://www.postgresql.org/\"> <img src=\"https://www.postgresql.org/media/img/about/press/elephant.png\" alt=\"postgresql\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://www.oracle.com/kr/cloud/free/\"> <img src=\"https://dt-cdn.net/hub/logos/oracle-cloud.png\" alt=\"oracle cloud\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://www.docker.com/\"> <img src=\"https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png\" alt=\"Docker\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://nginxproxymanager.com\"> <img src=\"https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nginx-proxy-manager.webp\" alt=\"Nginx Proxy Manager\" width=\"40\" height=\"40\"/> </a>
+<a href=\"https://www.adobe.com/kr/products/photoshop.html\"> <img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png\" alt=\"Photoshop\" width=\"40\" height=\"40\"/> </a>
 </p>
-<h3 align="left">포트폴리오:</h3>
-<a href="https://play.google.com/store/apps/dev?id=8088879179857239527" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="구글 플레이 스토어" width="40" height="40"/> </a>
-<h3 align="left">논문:</h3>
-<ul>
-<li>
-<a href="https://www.koreascience.kr/article/JAKO202509257604755.page" target="_blank" rel="noreferrer"> A Real-Time Tourist Information and AR Experience System Using FastAPI and Unity</a>
-</li>
+
+### 포트폴리오
+<a href=\"https://play.google.com/store/apps/dev?id=8088879179857239527\"> <img src=\"https://cdn-icons-png.flaticon.com/512/888/888857.png\" alt=\"구글 플레이 스토어\" width=\"40\" height=\"40\"/> </a>
+
+### 논문
+* [A Real-Time Tourist Information and AR Experience System Using FastAPI and Unity](https://www.koreascience.kr/article/JAKO202509257604755.page)\"
