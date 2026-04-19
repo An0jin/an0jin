@@ -1,35 +1,31 @@
-<h1 align="center">안영진</h1>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+My++GitHub&color=FFFFFF)](https://git.io/typing-svg)
 
-<h3 align="left">나의 대한 소개</h3>
+## 나의 대한 소개
 
 - 🌱 저는 현재 **리눅스, 이미지 데이터, 이미지 딥러닝, 이미지 데이터 증강, AR, AI모델 서빙, 클라우드, AI와 데이터를 활용한 과제 제작**를 공부하고 있습니다
 - 👯 현재 1인 창업자로 사업자를 등록하여, **빅데이터, AI와 메타버스, 디지털트원 기술을 접목한 뷰티 플랫폼 'Toneiverse'를 서비스 중**입니다
 
-<h3 align="left">사용언어와 도구:</h3>
-<p align="left">
-<a href="https://www.microsoft.com/ko-kr/software-download/windows11" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2108/PNG/512/windows_icon_130784.png" alt="Windows" width="40" height="40"/> </a>
-<a href="https://xubuntu.org/" target="_blank" rel="noreferrer"> <img src="https://i.namu.wiki/i/rqoDuqYqkZTW_KdjcAkfM1eH_RxhWySHUvaaZrbTM9fGH9DgHRrsLx53S6AoRZvIEmE-VUfK0ijA9l1cktt_qg.svg" alt="xubuntu" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/kr/linux/" target="_blank" rel="noreferrer"> <img src="https://blog.kakaocdn.net/dna/brnFDz/btsKGj0yjgJ/AAAAAAAAAAAAAAAAAAAAAEWNiAhKOsdleBMOJwg6fOiBvQju3adxxEbUDtyHu2We/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1772290799&allow_ip=&allow_referer=&signature=TUiPOezK3MRRHxXhpX%2B%2BleXae10%3D" alt="Oracle Linux" width="40" height="40"/> </a>
-<a href="https://antigravity.google/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/4/4a/Google_Antigravity_icon.svg/revision/latest/scale-to-width-down/1200?cb=20251119202403" alt="antigravity" width="40" height="40"/> </a>
-<a href="https://www.beekeeperstudio.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/53234021?v=4" alt="beekeeperstudio" width="40" height="40"/> </a>
-<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/ko-kr/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://velog.velcdn.com/images/scarleter99/post/e99095f6-2dd8-4d67-be93-8eeda8775ace/image.jpg" alt="C#" width="40" height="40"/> </a>
-<a href="https://unity.com/kr/download" target="_blank" rel="noreferrer"> <img src="https://cdn.sanity.io/images/fuvbjjlp/production/b749e2a6d2c21623ea89d0443410ba24f1aa420a-512x512.png" alt="unity" width="40" height="40"/> </a>
-<a href="https://docs.unity3d.com/kr/2020.3/Manual/com.unity.xr.arfoundation.html" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6357/6357965.png" alt="ARdoundation" width="40" height="40"/> </a>
-<a href="https://www.photonengine.com/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/e/ed/Photon_Engine_Icon.svg/revision/latest/scale-to-width-down/250?cb=20250218205934" alt="photon engine" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://blog.kakaocdn.net/dna/cn9zq6/btsaUkhGHdY/AAAAAAAAAAAAAAAAAAAAAHjjzE3p5XSwHaIJVgOl7eXyKNaOeHrd6f3w4BUehGlj/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=oDKBK5g9F%2BV16Ek4DDLxGI7jHbQ%3D" alt="python" width="40" height="40"/> </a>
-<a href="https://fastapi.tiangolo.com/ko/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4" alt="Fast API" width="40" height="40"/> </a>
-<a href="https://docs.ultralytics.com/ko/models/yolo12/" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/680a070c3b99253410dd3e8d_UltralyticsYOLO_mark_blue.svg" alt="YOLO" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.stackshare.io/service/1293/opencv-logo-64x64.png" alt="opencv" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://netdata.cloud/img/pandas.png" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/kr/cloud/free/" target="_blank" rel="noreferrer"> <img src="https://dt-cdn.net/hub/logos/oracle-cloud.png" alt="oracle cloud" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" alt="Docker" width="40" height="40"/> </a>
-<a href="https://nginxproxymanager.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nginx-proxy-manager.webp" alt="Nginx Proxy Manager" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/kr/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40"/> </a>
+## 사용언어와 도구
+
+### OS
+[ ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/ko-kr/windows), [ ![xubuntu](https://img.shields.io/badge/-xubuntu-0044AA?style=flat&logo=xubuntu&logoColor=white)](https://xubuntu.org/), [ ![Oracle Linux](https://img.shields.io/badge/-Oracle%20Linux-E95420?style=flat&logo=linux&logoColor=white)](https://www.oracle.com/kr/linux/)
+### IDE
+[ ![AntiGravity](https://img.shields.io/badge/-AntiGravity-418AFE?style=flat)](https://antigravity.google/), [ ![beekeeperstudio](https://img.shields.io/badge/-beekeeperstudio-FAD83B?style=flat&logo=beekeeperstudio&logoColor=white)](https://www.beekeeperstudio.io/),[ ![vim](https://img.shields.io/badge/-vim-019733?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
+### Language
+[ ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/ko-kr/languages/csharp), [ ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+### FrontEnd
+[ ![unity](https://img.shields.io/badge/-Unity-FFFFFF?style=flat&logo=unity&logoColor=black)](https://unity.com/kr/download), [ ![ARdoundation](https://img.shields.io/badge/-ARFoundation-000000?style=flat&logo=unity&logoColor=white)](https://docs.unity3d.com/kr/2020.3/Manual/com.unity.xr.arfoundation.html)
+### BackEnd
+[ ![photon engine](https://img.shields.io/badge/-Photon%20Engine-004480?style=flat&logo=photon&logoColor=white)](https://www.photonengine.com/), [ ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/ko/),[ ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/),[ ![nginx proxy manager](https://img.shields.io/badge/-nginx%20proxy%20manager-F15833?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/)
+### DataBase
+[ ![mysql](https://img.shields.io/badge/-mysql-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/), [ ![postgresql](https://img.shields.io/badge/-postgresql-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+### AI
+[ ![ultralytics](https://img.shields.io/badge/-ultralytics-111F68?style=flat&logo=ultralytics&logoColor=white)](https://docs.ultralytics.com/ko/models/yolo12/),[ ![Gemini API](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white)](https://ai.google.dev/gemini-api/docs?hl=ko)
+### Data
+[ ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/), [ ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+### Other
+[ ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/kr/products/photoshop.html)
+
 </p>
 <h3 align="left">포트폴리오:</h3>
 <a href="https://play.google.com/store/apps/dev?id=8088879179857239527" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="구글 플레이 스토어" width="40" height="40"/> </a>
