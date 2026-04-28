@@ -18,7 +18,7 @@
 ### BackEnd
 [ ![photon engine](https://img.shields.io/badge/-Photon%20Engine-004480?style=flat&logo=photon&logoColor=white)](https://www.photonengine.com/), [ ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/ko/)
 ### DevOps
-[ ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/),[ ![nginx proxy manager](https://img.shields.io/badge/-nginx%20proxy%20manager-F15833?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/), [ ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-E95420?style=flat&logo=linux&logoColor=white)](https://www.oracle.com/kr/linux/)
+[ ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/),[ ![nginx proxy manager](https://img.shields.io/badge/-nginx%20proxy%20manager-F15833?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/), [ ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-E95420?style=flat&logoColor=white)](https://www.oracle.com/kr/linux/)
 ### DataBase
 [ ![mysql](https://img.shields.io/badge/-mysql-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/), [ ![postgresql](https://img.shields.io/badge/-postgresql-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 ### AI
