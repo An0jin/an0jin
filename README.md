@@ -10,7 +10,7 @@
 ### OS
 [ ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/ko-kr/windows), [ ![xubuntu](https://img.shields.io/badge/-xubuntu-0044AA?style=flat&logo=xubuntu&logoColor=white)](https://xubuntu.org/), [ ![Oracle Linux](https://img.shields.io/badge/-Oracle%20Linux-E95420?style=flat&logo=linux&logoColor=white)](https://www.oracle.com/kr/linux/)
 ### IDE
-[ ![AntiGravity](https://img.shields.io/badge/-AntiGravity-418AFE?style=flat)](https://antigravity.google/), [ ![DB Gate](https://img.shields.io/badge/-DB%20Gate-1686C8?style=flat&logo=beekeeperstudio&logoColor=white)](https://www.dbgate.io/download-community/),[ ![vim](https://img.shields.io/badge/-vim-019733?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
+[ ![AntiGravity](https://img.shields.io/badge/-AntiGravity-418AFE?style=flat)](https://antigravity.google/), [ ![DB Gate](https://img.shields.io/badge/-DB%20Gate-1686C8?style=flat&logo=dbgate&logoColor=white)](https://www.dbgate.io/download-community/),[ ![vim](https://img.shields.io/badge/-vim-019733?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
 ### Language
 [ ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/ko-kr/languages/csharp), [ ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 ### FrontEnd
