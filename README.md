@@ -21,10 +21,15 @@
 [ ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/),[ ![nginx proxy manager](https://img.shields.io/badge/-nginx%20proxy%20manager-F15833?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/), [ ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-E95420?style=flat&logoColor=white)](https://www.oracle.com/kr/linux/)
 ### DataBase
 [ ![mysql](https://img.shields.io/badge/-mysql-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/), [ ![postgresql](https://img.shields.io/badge/-postgresql-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-### AI
-[ ![ultralytics](https://img.shields.io/badge/-ultralytics-111F68?style=flat&logo=ultralytics&logoColor=white)](https://docs.ultralytics.com/ko/models/yolo12/),[ ![Gemini API](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white)](https://ai.google.dev/gemini-api/docs?hl=ko)
-### Data
-[ ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/), [ ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/), [ ![Excel](https://img.shields.io/badge/-Excel-239120?style=flat&logo=Excel&logoColor=white)](https://www.microsoft.com/ko-kr/microsoft-365/excel)
+### CV
+[ ![pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/), [ ![ultralytics](https://img.shields.io/badge/-ultralytics-111F68?style=flat&logo=ultralytics&logoColor=white)](https://docs.ultralytics.com/ko/models/yolo12/)
+### LLM
+[ ![Gemini API](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white)](https://ai.google.dev/gemini-api/docs?hl=ko)
+### Image Data
+[ ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/), [ ![roboflow](https://img.shields.io/badge/-roboflow-6706CE?style=flat&logo=roboflow&logoColor=white)](https://app.roboflow.com/project-6ivpj), 
+
+### Struct Data
+[ ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/), [ ![Excel](https://img.shields.io/badge/-Excel-239120?style=flat&logo=Excel&logoColor=white)](https://www.microsoft.com/ko-kr/microsoft-365/excel)
 ### Other
 [ ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/kr/products/photoshop.html)
 
