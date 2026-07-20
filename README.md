@@ -34,7 +34,7 @@
 [ ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/kr/products/photoshop.html)
 ### 학교 강의용
 #### OS
-[ ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/ko-kr/windows)(초등학교 1학년~ 고등학교 3학년 과정), [ ![xubuntu](https://img.shields.io/badge/-xubuntu-0044AA?style=flat&logo=xubuntu&logoColor=white)](https://xubuntu.org/)(초등학교 과정)
+[ ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/ko-kr/windows)(초등학교 1학년~ 고등학교 3학년 과정), [ ![xubuntu](https://img.shields.io/badge/-xubuntu-0044AA?style=flat&logo=xubuntu&logoColor=white)](https://xubuntu.org/)(초등학교 1학년~초등학교 2학년 과정)
 #### IDE
 [ ![AntiGravity](https://img.shields.io/badge/-AntiGravity-418AFE?style=flat)](https://antigravity.google/)(초등학교 3학년~ 고등학교 3학년 과정), [ ![DB Gate](https://img.shields.io/badge/-DB%20Gate-1686C8?style=flat&logo=dbgate&logoColor=white)](https://www.dbgate.io/download-community/)(초등학교 3,4학년, 중1~고3과정)
 #### Language
