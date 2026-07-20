@@ -6,33 +6,48 @@
 - 👯 현재 1인 창업자로 사업자를 등록하여, **빅데이터, AI와 메타버스, 디지털트원 기술을 접목한 뷰티 플랫폼 'Toneiverse'를 서비스 중**입니다
 
 ## 사용언어와 도구
-
-### OS
+### 개발용
+#### OS
 [ ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/ko-kr/windows), [ ![xubuntu](https://img.shields.io/badge/-xubuntu-0044AA?style=flat&logo=xubuntu&logoColor=white)](https://xubuntu.org/), [ ![Oracle Linux](https://img.shields.io/badge/-Oracle%20Linux-E95420?style=flat&logo=linux&logoColor=white)](https://www.oracle.com/kr/linux/)
-### IDE
+#### IDE
 [ ![AntiGravity](https://img.shields.io/badge/-AntiGravity-418AFE?style=flat)](https://antigravity.google/), [ ![DB Gate](https://img.shields.io/badge/-DB%20Gate-1686C8?style=flat&logo=dbgate&logoColor=white)](https://www.dbgate.io/download-community/),[ ![vim](https://img.shields.io/badge/-vim-019733?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
-### Language
+#### Language
 [ ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/ko-kr/languages/csharp), [ ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-### AR
+#### AR
 [ ![unity](https://img.shields.io/badge/-Unity-FFFFFF?style=flat&logo=unity&logoColor=black)](https://unity.com/kr/download), [ ![ARdoundation](https://img.shields.io/badge/-ARFoundation-000000?style=flat&logo=unity&logoColor=white)](https://docs.unity3d.com/kr/2020.3/Manual/com.unity.xr.arfoundation.html)
-### BackEnd
+#### BackEnd
 [ ![photon engine](https://img.shields.io/badge/-Photon%20Engine-004480?style=flat&logo=photon&logoColor=white)](https://www.photonengine.com/), [ ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/ko/)
-### DevOps
+#### DevOps
 [ ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/),[ ![nginx proxy manager](https://img.shields.io/badge/-nginx%20proxy%20manager-F15833?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/), [ ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-E95420?style=flat&logoColor=white)](https://www.oracle.com/kr/linux/)
-### DataBase
+#### DataBase
 [ ![mysql](https://img.shields.io/badge/-mysql-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/), [ ![postgresql](https://img.shields.io/badge/-postgresql-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-### CV
+#### CV
 [ ![pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/), [ ![Pytorch Lightning](https://img.shields.io/badge/-Pytorch%20Lightning-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/), [ ![torch vision](https://img.shields.io/badge/-torch%20vision-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://docs.pytorch.org/vision/main/index.html), [ ![timm](https://img.shields.io/badge/-timm-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://docs.pytorch.org/vision/main/index.html),[ ![ultralytics](https://img.shields.io/badge/-ultralytics-111F68?style=flat&logo=ultralytics&logoColor=white)](https://docs.ultralytics.com/ko/models/yolo12/), [ ![onnx](https://img.shields.io/badge/-onnx-005CED?style=flat&logo=onnx&logoColor=white)](https://docs.ultralytics.com/ko/models/yolo12/)
-### LLM
+#### LLM
 [ ![Gemini API](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white)](https://ai.google.dev/gemini-api/docs?hl=ko)
-### Image Data
+#### Image Data
 [ ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/), [ ![roboflow](https://img.shields.io/badge/-roboflow-6706CE?style=flat&logo=roboflow&logoColor=white)](https://app.roboflow.com/project-6ivpj), 
 
-### Struct Data
+#### Struct Data
 [ ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/), [ ![Excel](https://img.shields.io/badge/-Excel-239120?style=flat&logo=Excel&logoColor=white)](https://www.microsoft.com/ko-kr/microsoft-365/excel)
-### Other
+#### Other
 [ ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/kr/products/photoshop.html)
-
+### 학교 강의용
+#### OS
+[ ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/ko-kr/windows)(초등학교 1학년~ 고등학교 3학년 과정), [ ![xubuntu](https://img.shields.io/badge/-xubuntu-0044AA?style=flat&logo=xubuntu&logoColor=white)](https://xubuntu.org/)(초등학교 과정)
+#### IDE
+[ ![AntiGravity](https://img.shields.io/badge/-AntiGravity-418AFE?style=flat)](https://antigravity.google/)(초등학교 3학년~ 고등학교 3학년 과정), [ ![DB Gate](https://img.shields.io/badge/-DB%20Gate-1686C8?style=flat&logo=dbgate&logoColor=white)](https://www.dbgate.io/download-community/)(초등학교 3,4학년, 중1~고3과정)
+#### Language
+[ ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)(초등학교 3학년~ 고등학교 3학년 과정)
+#### DataBase
+[ ![sqlite](https://img.shields.io/badge/-sqlite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)(초등학교 3,4학년, 중1~고3과정)
+#### Data Visualization
+[ ![matplotlib](https://img.shields.io/badge/-matplotlib-65BAEA?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)(초등학교 3학년~ 고등학교 3학년 과정)
+, [ ![seaborn](https://img.shields.io/badge/-seaborn-7db0bc?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)(초등학교 3학년~ 고등학교 3학년 과정)
+#### ML
+[ ![Sklearn](https://img.shields.io/badge/-Sklearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/)(초등학교 5학년~ 고등학교 3학년 과정)
+#### Struct Data
+[ ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)(초등학교 3학년~ 고등학교 3학년 과정)
 </p>
 <h3 align="left">포트폴리오:</h3>
 <a href="https://play.google.com/store/apps/dev?id=8088879179857239527" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="구글 플레이 스토어" width="40" height="40"/> </a>
