@@ -30,22 +30,28 @@
 
 #### Struct Data
 [ ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/), [ ![Excel](https://img.shields.io/badge/-Excel-239120?style=flat&logo=Excel&logoColor=white)](https://www.microsoft.com/ko-kr/microsoft-365/excel)
+#### Data Visualization
+[ ![matplotlib](https://img.shields.io/badge/-matplotlib-65BAEA?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+, [ ![seaborn](https://img.shields.io/badge/-seaborn-7db0bc?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+
 #### Other
 [ ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/kr/products/photoshop.html)
 ### 학교 강의용
+#### OS
+[ ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/ko-kr/windows))(초등학교1,2학년 과정(강의명  : 컴퓨터 기초)), [ ![xubuntu](https://img.shields.io/badge/-xubuntu-0044AA?style=flat&logo=xubuntu&logoColor=white)](https://xubuntu.org/)(초등학교1,2학년 과정(강의명 : 다양한 컴퓨터))
 #### IDE
-[ ![AntiGravity](https://img.shields.io/badge/-AntiGravity-418AFE?style=flat)](https://antigravity.google/)(초등학교 3학년~ 고등학교 3학년 과정), [ ![DB Gate](https://img.shields.io/badge/-DB%20Gate-1686C8?style=flat&logo=dbgate&logoColor=white)](https://www.dbgate.io/download-community/)(초등학교 3,4학년, 중1~고3과정)
+[ ![AntiGravity](https://img.shields.io/badge/-AntiGravity-418AFE?style=flat)](https://antigravity.google/)(초등학교 3학년~ 고등학교 3학년 과정(과목명 : 바이브 코딩 도구 설치하기)), [ ![DB Gate](https://img.shields.io/badge/-DB%20Gate-1686C8?style=flat&logo=dbgate&logoColor=white)](https://duckdb.org/)(초등학교 3,4학년(강의명 : 데이터베이스 실습), 중1~고3과정(강의명 : 데이터베이스 실습))
 #### Language
-[ ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)(초등학교 3학년~ 고등학교 3학년 과정)
+[ ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)(초등학교 3학년~ 고등학교 3학년 과정(강의명 : AI 데이터 분석 기초))
 #### DataBase
-[ ![sqlite](https://img.shields.io/badge/-sqlite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)(초등학교 3,4학년, 중1~고3과정)
+[ ![sqlite](https://img.shields.io/badge/-sqlite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)(초등학교 3,4학년(강의명 : 다양한 데이터)),[ ![duckdb](https://img.shields.io/badge/-duckdb-FFF000?style=flat&logo=duckdb&logoColor=white)](https://sqlite.org/)(중1~고3과정(강의명 : 다양한 데이터))
 #### Data Visualization
-[ ![matplotlib](https://img.shields.io/badge/-matplotlib-65BAEA?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)(초등학교 3학년~ 고등학교 3학년 과정)
-, [ ![seaborn](https://img.shields.io/badge/-seaborn-7db0bc?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)(초등학교 3학년~ 고등학교 3학년 과정)
+[ ![matplotlib](https://img.shields.io/badge/-matplotlib-65BAEA?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)(초등학교 3학년~ 고등학교 3학년 과정(강의명 : 데이터 시각화))
+, [ ![seaborn](https://img.shields.io/badge/-seaborn-7db0bc?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)(초등학교 3학년~ 고등학교 3학년 과정(강의명 : 데이터 시각화))
 #### ML
-[ ![Sklearn](https://img.shields.io/badge/-Sklearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/)(초등학교 5학년~ 고등학교 3학년 과정)
+[ ![Sklearn](https://img.shields.io/badge/-Sklearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/)(초등학교 5학년~ 고등학교 3학년 과정(강의명 : 머신러닝 기초))
 #### Struct Data
-[ ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)(초등학교 3학년~ 고등학교 3학년 과정)
+[ ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)(초등학교 3학년~ 고등학교 3학년 과정(강의명 : 파이썬 시각화))
 </p>
 <h3 align="left">포트폴리오:</h3>
 <a href="https://play.google.com/store/apps/dev?id=8088879179857239527" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="구글 플레이 스토어" width="40" height="40"/> </a>
