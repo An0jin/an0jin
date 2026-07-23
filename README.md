@@ -8,7 +8,7 @@
 ## 사용언어와 도구
 ### 개발용
 #### OS
-[ ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/ko-kr/windows), [ ![xubuntu](https://img.shields.io/badge/-xubuntu-0044AA?style=flat&logo=xubuntu&logoColor=white)](https://xubuntu.org/), [ ![Oracle Linux](https://img.shields.io/badge/-Oracle%20Linux-E95420?style=flat&logo=linux&logoColor=white)](https://www.oracle.com/kr/linux/)
+[ ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/ko-kr/windows), [ ![lubuntu](https://img.shields.io/badge/-lubuntu-0068C8?style=flat&logo=lubuntu&logoColor=white)](https://lubuntu.me/downloads/), [ ![Oracle Linux](https://img.shields.io/badge/-Oracle%20Linux-E95420?style=flat&logo=linux&logoColor=white)](https://www.oracle.com/kr/linux/)
 #### IDE
 [ ![AntiGravity](https://img.shields.io/badge/-AntiGravity-418AFE?style=flat)](https://antigravity.google/), [ ![DB Gate](https://img.shields.io/badge/-DB%20Gate-1686C8?style=flat&logo=dbgate&logoColor=white)](https://www.dbgate.io/download-community/),[ ![vim](https://img.shields.io/badge/-vim-019733?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
 #### Language
@@ -38,7 +38,7 @@
 [ ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/kr/products/photoshop.html)
 ### 학교 강의용
 #### OS
-[ ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/ko-kr/windows)(초등학교1,2학년 과정(강의명  : 컴퓨터 기초)), [ ![xubuntu](https://img.shields.io/badge/-xubuntu-0044AA?style=flat&logo=xubuntu&logoColor=white)](https://xubuntu.org/)(초등학교1,2학년 과정(강의명 : 다양한 컴퓨터))
+[ ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/ko-kr/windows)(초등학교1,2학년 과정(강의명  : 컴퓨터 기초)),[ ![lubuntu](https://img.shields.io/badge/-lubuntu-0068C8?style=flat&logo=lubuntu&logoColor=white)](https://lubuntu.me/downloads/)(초등학교1,2학년 과정(강의명 : 다양한 컴퓨터))
 #### IDE
 [ ![AntiGravity](https://img.shields.io/badge/-AntiGravity-418AFE?style=flat)](https://antigravity.google/)(초등학교 3학년~ 고등학교 3학년 과정(과목명 : 바이브 코딩 도구 설치하기)), [ ![DB Gate](https://img.shields.io/badge/-DB%20Gate-1686C8?style=flat&logo=dbgate&logoColor=white)](https://duckdb.org/)(초등학교 3,4학년(강의명 : 데이터베이스 실습), 중1~고3과정(강의명 : 데이터베이스 실습))
 #### Language
