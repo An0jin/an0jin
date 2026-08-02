@@ -20,7 +20,7 @@
 #### DevOps
 [ ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/),[ ![nginx proxy manager](https://img.shields.io/badge/-nginx%20proxy%20manager-F15833?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/), [ ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-E95420?style=flat&logoColor=white)](https://www.oracle.com/kr/linux/)
 #### DataBase
-[ ![postgresql](https://img.shields.io/badge/-postgresql-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/),[ ![duckdb](https://img.shields.io/badge/-duckdb-FFF000?style=flat&logo=duckdb&logoColor=white)](https://duckdb.org/),[ ![sqlite](https://img.shields.io/badge/-sqlite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)
+[ ![postgresql](https://img.shields.io/badge/-postgresql-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/),[ ![sqlite](https://img.shields.io/badge/-sqlite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)
 #### CV
 [ ![pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/), [ ![Pytorch Lightning](https://img.shields.io/badge/-Pytorch%20Lightning-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/), [ ![torch vision](https://img.shields.io/badge/-torch%20vision-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://docs.pytorch.org/vision/main/index.html), [ ![timm](https://img.shields.io/badge/-timm-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://docs.pytorch.org/vision/main/index.html),[ ![ultralytics](https://img.shields.io/badge/-ultralytics-111F68?style=flat&logo=ultralytics&logoColor=white)](https://docs.ultralytics.com/ko/models/yolo12/), [ ![onnx](https://img.shields.io/badge/-onnx-005CED?style=flat&logo=onnx&logoColor=white)](https://docs.ultralytics.com/ko/models/yolo12/)
 #### LLM
@@ -44,7 +44,7 @@
 #### Language
 [ ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)(초등학교 3학년~ 고등학교 3학년 과정(강의명 : AI 데이터 분석 기초))
 #### DataBase
-[ ![sqlite](https://img.shields.io/badge/-sqlite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)(초등학교 3,4학년(강의명 : 다양한 데이터)),[ ![duckdb](https://img.shields.io/badge/-duckdb-FFF000?style=flat&logo=duckdb&logoColor=white)](https://duckdb.org/)(중1~고3과정(강의명 : 다양한 데이터))
+[ ![sqlite](https://img.shields.io/badge/-sqlite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)(초등학교 3,4학년, 중1~고3과정(강의명 : 다양한 데이터))
 #### Data Visualization
 [ ![matplotlib](https://img.shields.io/badge/-matplotlib-65BAEA?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)(초등학교 3학년~ 고등학교 3학년 과정(강의명 : 그래프 그리기))
 , [ ![seaborn](https://img.shields.io/badge/-seaborn-7db0bc?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)(초등학교 3학년~ 고등학교 3학년 과정(강의명 : 그래프 그리기))
