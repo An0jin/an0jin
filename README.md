@@ -51,7 +51,7 @@
 [ ![matplotlib](https://img.shields.io/badge/-matplotlib-65BAEA?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)(초등학교 3학년~ 고등학교 3학년 과정(강의명 : 그래프 그리기))
 , [ ![seaborn](https://img.shields.io/badge/-seaborn-7db0bc?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)(초등학교 3학년~ 고등학교 3학년 과정(강의명 : 그래프 그리기))
 #### ML
-[ ![Sklearn](https://img.shields.io/badge/-Sklearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/)(초등학교 5학년~ 고등학교 3학년 과정(강의명 : 데이터 예측하거나 분류하게))
+[ ![Sklearn](https://img.shields.io/badge/-Sklearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/)(초등학교 5학년~ 고등학교 3학년 과정(강의명 : 데이터 예측하거나 분류하기))
 #### Struct Data
 [ ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)(초등학교 3학년~ 고등학교 3학년 과정(강의명 : 파이썬으로 데이터 다루기))
 </p>
