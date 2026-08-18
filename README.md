@@ -57,6 +57,17 @@
 </p>
 <h3 align="left">포트폴리오:</h3>
 <a href="https://play.google.com/store/apps/dev?id=8088879179857239527" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="구글 플레이 스토어" width="40" height="40"/> </a>
+<h3 align="left">특허</h3>
+<ul>
+<li>
+컴퓨터 비전(CV) 기반의 이미지 분석 결과와 연동된 증강현실(AR) 뷰티 시뮬레이션 시스템(10-2026-0095672)
+</li>
+  <li>사용자 정보 및 컨텍스트 분석 기반의 언어모델(LLM) 연동형 증강현실(AR) 뷰티 시뮬레이션 시스템(10-2026-0084012)</li>
+  <li>실시간 렌더링 엔진과 연동된 거대언어모델의 비정형 출력 파싱에 기초한 가상 공간 시각 환경 제어 시스템 및 방법(10-2026-0084011)</li>
+<ul>
+<li>
+<a href="https://www.koreascience.kr/article/JAKO202509257604755.page" target="_blank" rel="noreferrer"> A Real-Time Tourist Information and AR Experience System Using FastAPI and Unity</a>
+</li>
 <h3 align="left">논문:</h3>
 <ul>
 <li>
