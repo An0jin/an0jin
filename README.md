@@ -57,7 +57,7 @@
 </p>
 <h3 align="left">포트폴리오:</h3>
 <a href="https://play.google.com/store/apps/dev?id=8088879179857239527" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" alt="구글 플레이 스토어" width="40" height="40"/> </a>
-<h3 align="left">특허</h3>
+<h3 align="left">특허 출원</h3>
 <ul>
 <li>
 컴퓨터 비전(CV) 기반의 이미지 분석 결과와 연동된 증강현실(AR) 뷰티 시뮬레이션 시스템(10-2026-0095672)
