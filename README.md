@@ -1,11 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+My++GitHub&color=FFFFFF)](https://git.io/typing-svg)
 
-## 나의 대한 소개
+## 경력
 
-- 저는 현재 **리눅스, 이미지 데이터, 이미지 딥러닝, 이미지 데이터 증강, AR, AI모델 서빙, 클라우드, AI와 데이터를 활용한 과제 제작**를 공부하고 있습니다
-- 현재 **빅데이터, AI와 메타버스, 디지털트원 기술을 접목한 뷰티 플랫폼 'Toneiverse'를 서비스 중**입니다
-- 현재 **동두천 중앙고등학교의 디지털 튜터**입니다
+- 2025-12-26 ~현재 toneiverse대표
+- 2026-08-19 ~ 2026-12-31(예정). 동두천 교육청 정보부 디지털 튜터
 
+## 핵심분야
+
+- CV
+- AR
+- AI 서버 구축 및 운영
 
 ## 사용언어와 도구
 ### 개발용
