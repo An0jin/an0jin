@@ -10,6 +10,7 @@
 - CV
 - AR
 - AI 서버 구축 및 운영
+- 멀티모달 LLM
 
 ## 사용언어와 도구
 ### 개발용
@@ -18,19 +19,19 @@
 #### IDE
 [ ![AntiGravity](https://img.shields.io/badge/-AntiGravity-418AFE?style=flat)](https://antigravity.google/), [ ![DB Gate](https://img.shields.io/badge/-DB%20Gate-1686C8?style=flat&logo=dbgate&logoColor=white)](https://www.dbgate.io/download-community/),[ ![vim](https://img.shields.io/badge/-vim-019733?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
 #### Language
-[ ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/ko-kr/languages/csharp), [ ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/), [ ![go](https://img.shields.io/badge/-go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
+[ ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/ko-kr/languages/csharp), [ ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 #### AR
 [ ![unity](https://img.shields.io/badge/-Unity-FFFFFF?style=flat&logo=unity&logoColor=black)](https://unity.com/kr/download), [ ![ARdoundation](https://img.shields.io/badge/-ARFoundation-000000?style=flat&logo=unity&logoColor=white)](https://docs.unity3d.com/kr/2020.3/Manual/com.unity.xr.arfoundation.html)
 #### BackEnd
-[ ![photon engine](https://img.shields.io/badge/-Photon%20Engine-004480?style=flat&logo=photon&logoColor=white)](https://www.photonengine.com/), [ ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/ko/),  [ ![gin](https://img.shields.io/badge/-gin-008ECF?style=flat&logo=gin&logoColor=white)](https://gin-gonic.com/ko-kr/)
+[ ![photon engine](https://img.shields.io/badge/-Photon%20Engine-004480?style=flat&logo=photon&logoColor=white)](https://www.photonengine.com/), [ ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/ko/)
 #### DevOps
-[ ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/),[ ![nginx proxy manager](https://img.shields.io/badge/-nginx%20proxy%20manager-F15833?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/), [ ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-E95420?style=flat&logoColor=white)](https://www.oracle.com/kr/linux/)
+[ ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/),[ ![nginx proxy manager](https://img.shields.io/badge/-nginx%20proxy%20manager-F15833?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/), [ ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-E95420?style=flat&logoColor=white)](https://www.oracle.com/kr/linux/),  [ ![FastAPI Cloud](https://img.shields.io/badge/-FastAPI%20Cloud-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapicloud.com/)
 #### DataBase
 [ ![postgresql](https://img.shields.io/badge/-postgresql-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/),[ ![sqlite](https://img.shields.io/badge/-sqlite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)
 #### CV
 [ ![pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)([ ![timm](https://img.shields.io/badge/-timm-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://docs.pytorch.org/vision/main/index.html), [ ![torch vision](https://img.shields.io/badge/-torch%20vision-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://docs.pytorch.org/vision/main/index.html)),[ ![ultralytics](https://img.shields.io/badge/-ultralytics-111F68?style=flat&logo=ultralytics&logoColor=white)](https://docs.ultralytics.com/ko), [ ![onnx](https://img.shields.io/badge/-onnx-005ced?style=flat&logo=onnx&logoColor=white)](https://onnx.ai/)
 #### LLM
-[ ![Gemini API](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white)](https://ai.google.dev/gemini-api/docs?hl=ko)
+[ ![Langchain](https://img.shields.io/badge/-langchain-7FC8FF?style=flat&logo=langchain&logoColor=white)](https://www.langchain.com/)
 #### Image Data
 [ ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/), [ ![roboflow](https://img.shields.io/badge/-roboflow-6706CE?style=flat&logo=roboflow&logoColor=white)](https://app.roboflow.com/project-6ivpj), 
 
