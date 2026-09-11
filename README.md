@@ -31,7 +31,7 @@
 #### CV
 [ ![pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)([ ![timm](https://img.shields.io/badge/-timm-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://docs.pytorch.org/vision/main/index.html), [ ![torch vision](https://img.shields.io/badge/-torch%20vision-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://docs.pytorch.org/vision/main/index.html)),[ ![ultralytics](https://img.shields.io/badge/-ultralytics-111F68?style=flat&logo=ultralytics&logoColor=white)](https://docs.ultralytics.com/ko), [ ![onnx](https://img.shields.io/badge/-onnx-005ced?style=flat&logo=onnx&logoColor=white)](https://onnx.ai/)
 #### LLM
-[ ![Langchain](https://img.shields.io/badge/-langchain-7FC8FF?style=flat&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[ ![pydantic_ai](https://img.shields.io/badge/-pydantic%20ai-E92063?style=flat&logo=pydantic&logoColor=white)](https://pydantic.dev/)
 #### Image Data
 [ ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/), [ ![roboflow](https://img.shields.io/badge/-roboflow-6706CE?style=flat&logo=roboflow&logoColor=white)](https://app.roboflow.com/project-6ivpj), 
 
