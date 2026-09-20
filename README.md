@@ -29,7 +29,7 @@
 #### DataBase
 [ ![postgresql](https://img.shields.io/badge/-postgresql-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/),[ ![sqlite](https://img.shields.io/badge/-sqlite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)
 #### CV
-[ ![pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)([ ![timm](https://img.shields.io/badge/-timm-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://docs.pytorch.org/vision/main/index.html), [ ![torch vision](https://img.shields.io/badge/-torch%20vision-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://docs.pytorch.org/vision/main/index.html)),[ ![ultralytics](https://img.shields.io/badge/-ultralytics-111F68?style=flat&logo=ultralytics&logoColor=white)](https://docs.ultralytics.com/ko), [ ![onnx](https://img.shields.io/badge/-onnx-005ced?style=flat&logo=onnx&logoColor=white)](https://onnx.ai/)
+[ ![pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/),[ ![ultralytics](https://img.shields.io/badge/-ultralytics-111F68?style=flat&logo=ultralytics&logoColor=white)](https://docs.ultralytics.com/ko), [ ![onnx](https://img.shields.io/badge/-onnx-005ced?style=flat&logo=onnx&logoColor=white)](https://onnx.ai/)
 #### LLM
 [ ![pydantic_ai](https://img.shields.io/badge/-pydantic%20ai-E92063?style=flat&logo=pydantic&logoColor=white)](https://pydantic.dev/)
 #### Image Data
