@@ -33,7 +33,7 @@
 #### LLM
 [ ![pydantic_ai](https://img.shields.io/badge/-pydantic%20ai-E92063?style=flat&logo=pydantic&logoColor=white)](https://pydantic.dev/)
 #### Image Data
-[ ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/), [ ![roboflow](https://img.shields.io/badge/-roboflow-6706CE?style=flat&logo=roboflow&logoColor=white)](https://app.roboflow.com/project-6ivpj), 
+[ ![roboflow](https://img.shields.io/badge/-roboflow-6706CE?style=flat&logo=roboflow&logoColor=white)](https://app.roboflow.com/project-6ivpj), 
 
 #### Struct Data
 [ ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/), [ ![Excel](https://img.shields.io/badge/-Excel-239120?style=flat&logo=Excel&logoColor=white)](https://www.microsoft.com/ko-kr/microsoft-365/excel)
